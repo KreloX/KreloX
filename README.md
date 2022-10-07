@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **krelox@seznam.cz**
 
+- 📺 [**My Anime List**](https://myanimelist.net/animelist/KreloX)
+
 <p align="left">
 </p>
 
