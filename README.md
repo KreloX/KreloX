@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm KreloX</h1>
 <h3 align="center">IT student and Minecraft mod dev</h3>
 
+![](https://media.tenor.com/pNhXs-r3NloAAAAC/evangelion-meme.gif)
+
+![](https://64.media.tumblr.com/918720845b4bb21f602d363e6dc54fe1/tumblr_mlzb9tZjsv1rrdnl5o1_500.gifv)
+
 - 🌱 I’m currently learning **java, js**
 
 - 💬 Ask me about **DO NOT**
